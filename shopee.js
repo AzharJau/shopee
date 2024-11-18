@@ -33,5 +33,5 @@ addEvent(window, "load", function() {
                 }
             }
         });
-    }, 10000); // Menunda eksekusi selama 10 detik (10.000 ms)
+    }, 5000); // Menunda eksekusi selama 10 detik (10.000 ms)
 });
